@@ -1,24 +1,24 @@
-# README
+# Craft Academy - Cooper API
+[Deployed at Netlify] <br />
+[![Netlify Status]
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Authors
+[Alex Bellamy](https://github.com/Alex-Bellamy), [Odeane Croney](https://github.com/Odeane), [Sima Boreiri](https://github.com/Cma-B) <br />
 
-Things you may want to cover:
+## The challenge
+A client requests that we build a fitness tracking app using a specific test called the Cooper Test (aka The 12-minute run).
 
-* Ruby version
+The test is still used today as a field test for determining aerobic fitness and one of basic fitness tests used by the military. It is also used by many coaches and trainers to determine cardiovascular fitness and track fitness over time. This simple test also allows you to compare your cardiovascular endurance with others of your age and gender.
 
-* System dependencies
+## Scope 
+- Build a software solution that will make it possible not to only make the calculation but to record the data over time. 
+- Another requirement is that the app should have functionality that presents historical data of tests if a user has saved any historical data.
+- Ruby on Rails framework (back-end/API) and the React (client).
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Skills practised
+- Test Driven Development and Behavior Driven Design or Acceptance - Unit Test cycle
+- Testing API endpoints with RSpec using request specs
+- Learning about CORS
+- Authenticating users from a React app
+- Make a post request to an API from a client
